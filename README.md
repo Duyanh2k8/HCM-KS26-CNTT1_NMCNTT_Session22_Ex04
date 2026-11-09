@@ -9,7 +9,7 @@
 - Giải pháp 1: Có độ uy tín lịch sử cao nhờ tích xanh và 500 lượt bình chọn. Tuy nhiên, công nghệ thay đổi theo thời gian nên giải pháp từ năm 2014 có thể đã lỗi thời.
 - Giải pháp 2: Có tính cập nhật tốt hơn vì được đăng năm 2023 và có người dùng xác nhận hoạt động trên Windows 11. Tuy nhiên, số lượt bình chọn thấp hơn và chưa được người đặt câu hỏi đánh dấu chấp nhận.
 ## 3. Chốt lựa chọn
-<span style="background-color: #e6f4ea; color: #137333; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-family: sans-serif;">Lựa chọn ưu tiên: Giải pháp 2</span>
+`Lựa chọn ưu tiên: Giải pháp 2`
 
 Tôi ưu tiên Giải pháp 2 vì:
 1. Nội dung được đăng mới hơn, phù hợp hơn với môi trường Windows 11.
